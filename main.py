@@ -1,12 +1,12 @@
 import pyrebase
 
 firebaseConfig = {
-  "apiKey": "AIzaSyDKEfqRtccG3JQ0q9eoaY73a1_Sm5SxvyE",
-  "authDomain": "authsystem-48cef.firebaseapp.com",
-  "projectId": "authsystem-48cef",
-  "storageBucket": "authsystem-48cef.appspot.com",
-  "messagingSenderId": "19894314509",
-  "appId": "1:19894314509:web:13bac1cbef29992c0ed744",
+  "apiKey": "",
+  "authDomain": "",
+  "projectId": "",
+  "storageBucket": "",
+  "messagingSenderId": "",
+  "appId": "",
   "databaseURL": ""
 }
 
