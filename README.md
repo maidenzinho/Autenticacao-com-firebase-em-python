@@ -1,0 +1,1 @@
+# autenticacao-com-firebase-em-python
